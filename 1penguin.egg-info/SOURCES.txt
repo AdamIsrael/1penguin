@@ -1,0 +1,8 @@
+setup.py
+1penguin.egg-info/PKG-INFO
+1penguin.egg-info/SOURCES.txt
+1penguin.egg-info/dependency_links.txt
+1penguin.egg-info/entry_points.txt
+1penguin.egg-info/top_level.txt
+bin/1penguin
+onepenguin/__init__.py
